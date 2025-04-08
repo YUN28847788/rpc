@@ -1,0 +1,13 @@
+/home/yun/shilei/mrpc/bin/CMakeFiles/edit_cache.dir
+/home/yun/shilei/mrpc/bin/CMakeFiles/rebuild_cache.dir
+/home/yun/shilei/mrpc/bin/src/CMakeFiles/mprpc.dir
+/home/yun/shilei/mrpc/bin/src/CMakeFiles/edit_cache.dir
+/home/yun/shilei/mrpc/bin/src/CMakeFiles/rebuild_cache.dir
+/home/yun/shilei/mrpc/bin/example/CMakeFiles/edit_cache.dir
+/home/yun/shilei/mrpc/bin/example/CMakeFiles/rebuild_cache.dir
+/home/yun/shilei/mrpc/bin/example/callee/CMakeFiles/provider.dir
+/home/yun/shilei/mrpc/bin/example/callee/CMakeFiles/edit_cache.dir
+/home/yun/shilei/mrpc/bin/example/callee/CMakeFiles/rebuild_cache.dir
+/home/yun/shilei/mrpc/bin/example/caller/CMakeFiles/consumer.dir
+/home/yun/shilei/mrpc/bin/example/caller/CMakeFiles/edit_cache.dir
+/home/yun/shilei/mrpc/bin/example/caller/CMakeFiles/rebuild_cache.dir
